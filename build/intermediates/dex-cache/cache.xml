@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\邱\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_8c1268a30d69200e89eaa91a9f6cc210bcdd9e13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3b53853366489f2a60af1168c87a1aa6610443b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_72d4a1189eb71c1f78d28814b3731235b8952727\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha8_8bb7b208f15997c7c26875f9f13fa50b2f450837\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_3853a8116a222f48a38ba848a35d46eb353a63ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\邱\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.1\4e4cfa4adc74521d5966799fa5ab70b733552f68\rxjava-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e4cfa4adc74521d5966799fa5ab70b733552f68">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.1_bc40f10b3a13247cd931990774f8e297ff39464e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\邱\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_74c01e0334770455ec064f16fec218abc56b6017\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_58a1a922e9d1ae0a65efdb22d6dafcaa369b9922\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\me.shaohui.advancedluban\library\1.2.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec45c43de3bde97176af0f05fcd36aba0d077501">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.shaohui.advancedluban-library-1.2.8_3ff052c4d54f6ff2b47100c31b13228158f3ec54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_9738fec37a7d7e0db67d0c7893703023a26edfba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha8\constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha8_6d9676dae7ccd96989cf53d9a236cb0cd665becf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9c0a54b62ef211ca2fa6a6495f76750be5285652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6aab724703a978c2650239dee0ca67947f305941">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-23.2.1_1c5a130beabd184b8fe0aaa7e901439c464ba92e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\me.relex\circleindicator\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a6c347f01da9077fc9d7934974260d904354f77">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.relex-circleindicator-1.2.1_e2148a0a0541e29087c04336bb7715c165d17561\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_3b100ad237fb1c959e027cd549497e9e13ac6ddf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_09b2e1ab3637028265019593ad3684b7e16af52d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_529dd289230a02b2c491959f1c10d7aafbe95bba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_09963bf3ee8e7ea4af055cdaf2121cc72f54ae7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_c53b6f909d60a8d274701758b26f8809a5bb299e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes.photoview-library-1.2.4_74266562c651a72cce099a520f23ee391672ac1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_6cf4607168e896ea71c07e408616188cc0696021\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.12.0_739204741e9f742b40ac010320a7b09661857eb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.12.0_57c184f9a415ee0984f09dae333ac658addc2970\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_298ffd6ea6969d53da169530a4831ffed13b0328\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\邱\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_60c96f99006cdc052ff8bfd525a684bf118d7310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\邱\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_5cb8765d7991163728ca822764a46adcd7bb3caa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\libs\Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a89df414ccae7b6f9474a9941683d0e215e4927f">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\2\Sunflower_1e92215e43f4acd2db3ea1d84b839e8a007201df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="994d12017bc2c9ba570180cde5500689d134e6e6">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_fbf5f39b522f4b0d00db0576a8df4b34aecdcc21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_467b139f6dfd1c0d053a2b068f537d298a6783ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.dm7.barcodescanner-core-1.9_a32ad7e17d9e92fb4eeb50782c16d21a9168539e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.truizlop.sectionedrecyclerview\library\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8b0231ff1692ac844199e0287d97ee99fb2512b4">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.truizlop.sectionedrecyclerview-library-1.2.0_910a69c0e2221a88941d750a4925a6e0e2de2a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\邱\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_2de67809994d3c5d659cc538fac55a0546fcd835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.12.0_6bd102669c8132382729acb2d287d58cd6d297a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\邱\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_aa1e3f55949b8d97abcbc74e90937a7a358b8615\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_032cd5eda13e706cd702471950a862541accb980\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport_upgrade\1.2.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="947af03922badb8377223dd445268ab2516964ae">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.tencent.bugly-crashreport_upgrade-1.2.3_93c355f8760784da85c1f9ea4ed80c093dfb17ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\libs\AMap3DMap_4.1.2_AMapNavi_1.9.3_AMapSearch_3.6.0_AMapLocation_3.1.0_20161114.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3f2be8372fd402fc7a266f5a72b572f0aef582f">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap3DMap_4.1.2_AMapNavi_1.9.3_AMapSearch_3.6.0_AMapLocation_3.1.0_20161114_e8d7c41a1fc2fd0d1b3aee926aef8fc0e0aa9a5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="81ab20a92acaaed54646264ee14c3ccf89348c77">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9fa5e2e4be039b208b72e7c4216c49a1b9aeb8ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.timehop.stickyheadersrecyclerview\library\0.4.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23bbdaadbcb0f011e809e07ae0a91e24fa55365d">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.timehop.stickyheadersrecyclerview-library-0.4.3_09109c4e46fda8f4aa075e788f973df4f039d24f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.wang.avi\library\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4968500e276d051b8ed8135f1a0254120f6c600d">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.wang.avi-library-1.0.1_f9fc223e8af72422dca164d3a5506931c3d68405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_479463f530c45019b56daac7fe5bd6d53780a94f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.12.0_95cdc9d52f57e023333efdd0425b7c56902c5ef2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\邱\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_d0c0249b30a3f9a23aabb36daec22438e30d8634\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_6fe2c6750b2eb3d2799f2f669f120758e0acf1e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="efeac4c9b49140386e4891424a3f9390eb3adbca">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1914ac7931bed0ccf36edcdd18f8b646cc073e1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c9cbb2df8e5320e48efadb1b5c8189519e3901cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0dea3f15e62db37995af775b29a1c6f0d2e9793f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="D:\AndroidStudioProjects\SVNProject\virson3.0\FindCoalWorkSpace2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.12.0_42e5a1ef31118b7a76cd9825005a14ec7227a99e\classes.dex" />
+    </item>
+
+</items>
